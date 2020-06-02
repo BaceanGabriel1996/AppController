@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Your Best Game WebGL",
+"companyName": "Your Best App Company",
+"productName": "Your Best App",
 "dataUrl": "LK.data.unityweb",
 "wasmCodeUrl": "LK.wasm.code.unityweb",
 "wasmFrameworkUrl": "LK.wasm.framework.unityweb",
